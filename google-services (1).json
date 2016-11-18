@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "940559718357",
+    "firebase_url": "https://makaanseller-ead54.firebaseio.com",
+    "project_id": "makaanseller-ead54",
+    "storage_bucket": "makaanseller-ead54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940559718357:android:e7ae744a4a9856ef",
+        "android_client_info": {
+          "package_name": "com.makaan.seller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940559718357-bm1o8bp2pvkppphbe3uto4pe419u087p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4dpqesf09C8oPeEPm7IT62kIksgIZEiw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
